@@ -6,7 +6,6 @@ In this project i created a simple and responsive landing page. The landing page
 
 ## Getting Started
 Clone the repo: $ git clone https://github.com/flashdida/-responsive-landing-page-using-html-css-js.git
-Open index.html
 
 ## 🛠 Skills
 Javascript, HTML, CSS
